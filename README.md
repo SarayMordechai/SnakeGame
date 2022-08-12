@@ -1,4 +1,4 @@
-# SnakeGame
+# SnakeGame3D
 
 
 Snake Game in 3D
